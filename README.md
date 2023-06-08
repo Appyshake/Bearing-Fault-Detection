@@ -1,1 +1,1 @@
-# Bearing-Fault-Detection
+# IMS-Bearing-Fault-Diagnosis
